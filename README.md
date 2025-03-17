@@ -1,10 +1,10 @@
-#House Price Prediction – Boston Dataset
+House Price Prediction – Boston Dataset
 
 📌 Overview
 
-#This project builds a Linear Regression model to predict house prices using the Boston Housing Dataset. It explores the relationship between housing features (crime rate, number of rooms, location, etc.) and their impact on pricing.
+This project builds a Linear Regression model to predict house prices using the Boston Housing Dataset. It explores the relationship between housing features (crime rate, number of rooms, location, etc.) and their impact on pricing.
 
-#🛠 Technologies Used
+🛠 Technologies Used
 
 Python
 
